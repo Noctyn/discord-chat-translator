@@ -28,7 +28,7 @@
 ### 安装
 
 1. 请先在浏览器中安装用户脚本管理器：[Tampermonkey](https://www.tampermonkey.net/)（推荐）或 [Violentmonkey](https://violentmonkey.github.io/)。
-2. 点击 [GitHub Raw 直链安装](https://raw.githubusercontent.com/Noctyn/dc-translate/main/discord-chat-translator.user.js)（或新建脚本，粘贴 [`discord-chat-translator.user.js`](./discord-chat-translator.user.js) 源码保存）。
+2. 点击 [GitHub Raw 直链安装](https://raw.githubusercontent.com/Noctyn/discord-chat-translator/main/discord-chat-translator.user.js)（或新建脚本，粘贴 [`discord-chat-translator.user.js`](./discord-chat-translator.user.js) 源码保存）。
 3. 打开或刷新 Discord 网页端，页面右下角出现悬浮按钮即代表加载成功。
 
 > **跨域权限说明**：脚本通过 `GM_xmlhttpRequest` 发起跨域翻译请求，元数据已声明以下白名单域名：`translate.googleapis.com`、`clients5.google.com`、`edge.microsoft.com`、`api-edge.cognitive.microsofttranslator.com`、`api.mymemory.translated.net`。首次触发翻译时若脚本管理器弹出跨域授权提示，请选择「总是允许」。

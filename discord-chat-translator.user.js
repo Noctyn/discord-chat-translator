@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Discord 聊天翻译 (悬停 / 批量 / 自动)
-// @namespace    https://github.com/Noctyn/dc-translate
-// @homepageURL  https://github.com/Noctyn/dc-translate
-// @supportURL   https://github.com/Noctyn/dc-translate/issues
-// @updateURL    https://raw.githubusercontent.com/Noctyn/dc-translate/main/discord-chat-translator.user.js
-// @downloadURL  https://raw.githubusercontent.com/Noctyn/dc-translate/main/discord-chat-translator.user.js
+// @namespace    https://github.com/Noctyn/discord-chat-translator
+// @homepageURL  https://github.com/Noctyn/discord-chat-translator
+// @supportURL   https://github.com/Noctyn/discord-chat-translator/issues
+// @updateURL    https://raw.githubusercontent.com/Noctyn/discord-chat-translator/main/discord-chat-translator.user.js
+// @downloadURL  https://raw.githubusercontent.com/Noctyn/discord-chat-translator/main/discord-chat-translator.user.js
 // @version      1.1.0
 // @description  悬停 Discord 消息即刻翻译，支持批量翻译屏幕内消息与滚动自动翻译；Google / 微软 / MyMemory 多通道自动降级；界面直接沿用 Discord 原生主题变量，译文·对照·原文一键切换
 // @author       Noctyn
